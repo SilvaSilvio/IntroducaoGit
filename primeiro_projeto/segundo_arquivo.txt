@@ -1,1 +1,3 @@
 Esse é o segundo arquivo.
+
+Fazer um teste para descartar as configurações
